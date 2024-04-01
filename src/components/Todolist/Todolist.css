@@ -1,0 +1,37 @@
+.Todolist {
+  width: 250px;
+  background-color: lightgray;
+  opacity: 0.6;
+  padding: 15px;
+  border-radius: 3px;
+}
+
+.Todolist_InputForm {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+  border: none;
+}
+
+.Todolist_Input {
+  border: none;
+  height: 40px;
+  border-radius: 3px;
+}
+
+.Todolist_Input:hover {
+  border: 1px solid #646cff;
+}
+
+.Todolist_InputButton {
+  width: 16px;
+  height: 16px;
+  border-radius: 3px;
+}
+
+.Todolist_TaskContainer {
+  margin-top: 10px;
+  display: flex;
+  flex-direction: column;
+  row-gap: 10px;
+}

@@ -1,0 +1,13 @@
+.App {
+  width: 100vw;
+  height: 100vh;
+  margin: 30px;
+}
+
+.App_TodolistContainer {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  gap: 30px;
+}

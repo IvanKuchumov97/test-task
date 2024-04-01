@@ -1,0 +1,9 @@
+.TaskCard {
+  background-color: white;
+  opacity: 0.9;
+  padding: 5px;
+  border-radius: 3px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
